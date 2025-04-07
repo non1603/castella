@@ -9,7 +9,7 @@
         constructor() {
             this._color = "white";
             this._rooms = 1;
-            this.address = "神奈川県"
+            this.address = "東京都"
         }
 
         //ゲッター
