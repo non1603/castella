@@ -8,7 +8,7 @@
 
         constructor() {
             this._color = "red";
-            this._rooms = 1;
+            this._rooms = 3;
             this.address = "東京都"
         }
 
