@@ -7,7 +7,7 @@
         address: string;
 
         constructor() {
-            this._color = "blue";
+            this._color = "red";
             this._rooms = 1;
             this.address = "東京都"
         }
